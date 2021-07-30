@@ -28,9 +28,9 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis BONITOOO",
+      "title": "Tênis de Caminhada Leve Confortável",
       "price": 179.9,
-      "image": "https://purplestore.com.br/wp-content/uploads/2019/11/Air-Jordan-4-Flight-%E2%80%93-RAPTORS-no-pe-Pesquisa-Google.png"
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     },
     {
       "id": 2,
